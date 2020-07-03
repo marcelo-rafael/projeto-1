@@ -1,4 +1,4 @@
-# Projeto-1-Landpage
+# Projeto-1-Landing Page
 
 ## Projeto prático de uma Landing Page feito através do Curso Webmaster Front-End Completo da [Danki Code](https://cursos.dankicode.com/)
 
