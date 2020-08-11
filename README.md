@@ -8,8 +8,8 @@
 
 This project was developed with the following technologies:
 
-- [SASS](https://sass-lang.com/)
-
+- HRML5
+- CSS3
 ## How To Use
 
 ```bash
